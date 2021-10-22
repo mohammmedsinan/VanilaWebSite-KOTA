@@ -1,0 +1,23 @@
+.primary-btn {
+  background: transparent;
+  border: 0.2rem solid #f74ea1;
+  padding: 1.1rem 2.2rem;
+  color: #f74ea1;
+  font-family: Circular, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.1rem;
+  border-radius: 3rem;
+  margin-top: 2.5rem;
+  display: inline-block;
+  text-align: center;
+  transition: background-color 0.85s ease 0s, color 0.85s ease 0s;
+  cursor: pointer;
+}
+
+.primary-btn:hover {
+  background-color: #f74ea1;
+  color: white;
+}
